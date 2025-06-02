@@ -1,0 +1,7 @@
+Index,t-stat,p-value
+ETF_Attention_Index,0.26388519591136117,0.7964
+Stock_Attention_Index,-0.7369824472354138,0.4752
+Dividend_Attention_Index,0.3267215376986782,0.7497
+Beginner_Attention_Index,-0.9128293734105957,0.3803
+Macro_Attention_Index,2.9934535553406816,0.0169
+Tech_Attention_Index,0.39785015558794595,0.6987
