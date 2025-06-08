@@ -341,7 +341,7 @@ plt.show()
     
 
 
-# Arvhived(not formally included)
+# Arcvhived(not formally included)
 
 ## Causality Analysis
 
